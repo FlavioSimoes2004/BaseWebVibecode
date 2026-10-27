@@ -22,3 +22,5 @@ Lista de skills:
     - Criada por mim para organizar os diretorios do projeto.
 1. [commit-messages](https://github.com/TheDecipherist/claude-code-mastery/blob/main/skills/commit-messages/SKILL.md)
     - Para fornecer mensagens de commits com um padrão inteligente e que proporcionam informações do que foi feito naquele commit.
+1. [env-secrets-manager](https://github.com/alirezarezvani/claude-skills/blob/main/engineering/skills/env-secrets-manager/SKILL.md)
+    - Manter variáveis de ambiente e segredos (chaves de API, senhas de banco, tokens) seguros, do desenvolvimento local até a produção.
